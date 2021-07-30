@@ -1,0 +1,25 @@
+{
+  "name": "desafio-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ander-f-silva/desafio-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ander-f-silva/desafio-ci/issues"
+  },
+  "homepage": "https://github.com/ander-f-silva/desafio-ci#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "express": "^4.17.1",
+    "mocha": "^9.0.3",
+    "request": "^2.88.2"
+  }
+}
